@@ -56,11 +56,11 @@ function Slide(){
                 </div>
                 <div className='title'>
                     <Link href={'#'} className='text-3xl md:text-6xl font-bold text-gray-800 hover:text-gray-600'>
-                        I'm really trying my best to learn something
+                        I am really trying my best to learn something
                     </Link>
                 </div>
                 <p className='text-gray-500 py-3'>
-                    This is a long description of my challenges and strengths when designing with Tailwind CSS and Next.js. You just gotta learn it even though you're not a front end developer
+                    This is a long description of my challenges and strengths when designing with Tailwind CSS and Next.js. You just gotta learn it even though you are not a front end developer
                 </p>
                 <Author />
             </div>
